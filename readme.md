@@ -2,7 +2,7 @@
 
 As developers, we should take into consideration the different kind of users that would use our applications, therefore it is needed for us to build accessibility features into our applications.
 
-[View tutorial](#)
+[View tutorial](https://pusher.com/tutorials/text-speech-react-native)
 
 ## Getting Started
 Clone the project repository by running the command below if you use SSH
